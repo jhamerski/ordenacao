@@ -4,10 +4,10 @@ Implementação de alguns algoritmos de ordenação.
 ---------
 São eles:
 
-*BubbleShort
+- BubbleShort
 
-*InsertionSort
+- InsertionSort
 
-*QuickSort
+- QuickSort
 
-*SelectionSort
+- SelectionSort
